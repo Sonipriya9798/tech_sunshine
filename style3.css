@@ -1,6 +1,8 @@
 *{
     text-decoration: double;
     text-align: center;
+    font-size: medium;
+    font-weight: 400;
 }
 a{
     text-decoration: none;
