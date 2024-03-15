@@ -2,3 +2,11 @@ a{
     text-decoration: none;
     color: blue;
 }
+table{
+    border:2px solid blue;
+    width: 800px;
+    height:500px;
+}
+td:hover{
+    background-color: lightblue;
+}
